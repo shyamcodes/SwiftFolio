@@ -1,0 +1,23 @@
+.env
+backend/.env
+.venv/
+backend/.venv/
+backend/.venv_mac/
+backend/.conda311/
+backend/.mongodb-data/
+frontend/.env.local
+frontend/.next/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
